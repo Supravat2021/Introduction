@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Cybersecurity Enthusiast | 💻 Full Stack Learner | 🎯 Hackathon Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Supravat2021&label=Profile%20views&color=0e75b6&style=flat" alt="supravatpaul" />
+  <img src="https://komarev.com/ghpvc/?username=Supravat2021&label=Profile%20views&color=0e75b6&style=flat" alt="Supravat2021" />
 </p>
 
 ---
@@ -44,6 +44,7 @@ I'm a passionate and self-driven developer exploring the intersection of **AI, c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supravat2021&layout=compact&theme=tokyonight" alt="Supravat's Top Languages" />
 </p>
 
+---
 
 ### 🔗 Let's Connect
 
@@ -54,7 +55,7 @@ I'm a passionate and self-driven developer exploring the intersection of **AI, c
   <a href="https://www.instagram.com/iamsupravat_2023" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" />
   </a>
-  <a href="mailto:supravatpau2021@gmail.com">
+  <a href="mailto:supravatpaul000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
   <a href="https://github.com/Supravat2021" target="_blank">
