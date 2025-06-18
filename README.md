@@ -55,7 +55,7 @@ I'm a passionate and self-driven developer exploring the intersection of **AI, c
   <a href="https://www.instagram.com/iamsupravat_2023" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" />
   </a>
-  <a href="mailto:supravatpaul000@gmail.com">
+  <a href="mailto:supravatpaul2021@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
   <a href="https://github.com/Supravat2021" target="_blank">
