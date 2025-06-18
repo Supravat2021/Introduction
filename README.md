@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Cybersecurity Enthusiast | 💻 Full Stack Learner | 🎯 Hackathon Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=supravatpaul&label=Profile%20views&color=0e75b6&style=flat" alt="supravatpaul" />
+  <img src="https://komarev.com/ghpvc/?username=Supravat2021&label=Profile%20views&color=0e75b6&style=flat" alt="supravatpaul" />
 </p>
 
 ---
@@ -39,9 +39,9 @@ I'm a passionate and self-driven developer exploring the intersection of **AI, c
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supravatpaul&show_icons=true&theme=tokyonight" alt="Supravat's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=supravatpaul&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supravatpaul&layout=compact&theme=tokyonight" alt="Supravat's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Supravat2021&show_icons=true&theme=tokyonight" alt="Supravat's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Supravat2021&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supravat2021&layout=compact&theme=tokyonight" alt="Supravat's Top Languages" />
 </p>
 
 
