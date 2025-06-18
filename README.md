@@ -39,11 +39,10 @@ I'm a passionate and self-driven developer exploring the intersection of **AI, c
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supravatpaul&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=supravatpaul&theme=tokyonight&hide_border=false" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supravatpaul&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=supravatpaul&show_icons=true&theme=tokyonight" alt="Supravat's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=supravatpaul&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supravatpaul&layout=compact&theme=tokyonight" alt="Supravat's Top Languages" />
 </p>
-
 
 
 ### 🔗 Let's Connect
