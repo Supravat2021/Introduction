@@ -40,7 +40,7 @@ I'm a passionate and self-driven developer exploring the intersection of **AI, c
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Supravat2021&show_icons=true&theme=tokyonight" alt="Supravat's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Supravat2021&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supravat2021&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supravat2021&layout=compact&theme=tokyonight" alt="Supravat's Top Languages" />
 </p>
 
