@@ -28,11 +28,17 @@ I'm a passionate and self-driven developer exploring the intersection of **AI, c
 
 ---
 
-### 🔥 Projects
+### 📁 Projects
 
-- 🌐 **[Portfolio Website](https://supravat2021.github.io/Portfolio/)**  
-  A responsive personal site with clean animations and a project showcase.  
-  *(Currently desktop-only — full mobile support coming soon!)*
+Here are some of my highlighted works:
+
+- 💼 [**Portfolio Website**](https://github.com/Supravat2021/Portfolio)  
+  My personal portfolio with animations, responsive layout, and clean design. *(Currently desktop-only)*
+
+- 🔐 [**Brute Force Password Generator**](https://github.com/Supravat2021/brute-force-password-generator)  
+  A customizable password list generator designed for brute-force attack testing and ethical hacking use.  
+  ⚠️ For educational purposes only.
+
 
 ---
 
