@@ -45,12 +45,10 @@ Here are some of my highlighted works:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Supravat2021&show_icons=true&theme=tokyonight&cache_seconds=30" alt="Supravat's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Supravat2021&theme=tokyonight&hide_border=false&cache_seconds=30" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supravat2021&layout=compact&theme=tokyonight&cache_seconds=30" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Supravat2021&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Supravat's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Supravat2021&theme=tokyonight&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supravat2021&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
-
-
 
 ---
 
